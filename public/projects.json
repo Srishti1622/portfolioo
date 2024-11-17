@@ -1,0 +1,42 @@
+{
+    "projects": [
+      {
+        "title": "CalsiCalculator",
+        "description": "The Calsi Calculator is a sophisticated web application designed to perform basic and advanced arithmetic calculations within an intuitive and user-friendly interface. Leveraging the power of ReactJS, this calculator provides a seamless and dynamic user experience, ensuring precision and efficiency in mathematical operations.",
+        "year": "Nov 2023 - Nov 2023",
+        "image": "calsiCalculator.png",
+        "techStack": ["ReactJS", "JSX", "CSS"],
+        "githubLink":"https://github.com/Srishti1622/CalsiCalculator",
+        "viewLink":""
+      },
+      {
+        "title": "Tic-Tac-Toe",
+        "description": "Tic-Tac-Toe Too is more than just a game, it's a testament to the timeless appeal of classic games in the digital age. The project showcases the integration of front-end technologies to create an interactive and visually appealing gaming experience for players of all ages.",
+        "year": "Oct 2023 - Oct 2023",
+        "image": "tic-tac-toe.png",
+        "techStack": ["HTML", "CSS", "JavaScript"],
+        "githubLink":"https://github.com/Srishti1622/tic-tac-toe",
+        "viewLink":"https://ticc-tacc-toeee-too.netlify.app/"
+      },
+      {
+        "title": "dream2success",
+        "description": "Spearheaded the development of an automated HR department system, focusing on user-friendly interfaces and robust functionalities. Designed and implemented both User and Admin Dashboard Panels, ensuring an intuitive and efficient user experience. Played a key role in establishing the server infrastructure, implementing security protocols, and incorporating essential login-logout features. Contributed significantly to database connectivity, enhancing the system's ability to manage HR-related data effectively.",
+        "year": "Jan 2022 - Dec 2022",
+        "image": "dream2success.png",
+        "techStack": ["HTML", "CSS", "JavaScript","MySQL","PHP"],
+        "githubLink":"https://github.com/Srishti1622/dream2success",
+        "viewLink":"http://dream2success.co.in/"
+      },
+      {
+        "title": "ToDo List",
+        "description": "This Todo List website allows users to add tasks, delete individual tasks, remove all tasks, and remove selected tasks, providing a user-friendly and functional task management interface.",
+        "year": "Nov 2021 - Nov 2021",
+        "image": "todoList.png",
+        "techStack": ["HTML", "CSS", "JavaScript"],
+        "githubLink":"https://github.com/Srishti1622/todoList",
+        "viewLink":"https://toddoo-listt.netlify.app/"
+      }
+      
+    ]
+  }
+  
