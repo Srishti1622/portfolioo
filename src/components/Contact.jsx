@@ -31,7 +31,7 @@ const Contact = ({isDarkMode}) => {
     </div>
     <hr className={`border-t-2 rounded mx-[500px] ${!isDarkMode?'border-slate-500':'border-slate-400'}`}/>
     <div className={`pb-8 text-center pt-8 font-mono font-bold ${!isDarkMode?'text-slate-500':'text-slate-600'}`}>
-        Last updated on Jan 2024 - Thankyou!
+        Last updated on March 25 - Thankyou!
     </div>
     </div>
     </>
