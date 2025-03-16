@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 const About = ({isDarkMode}) => {
     
   // text animation logic
-  const texts=[' a Software Developer',' an Artist'];
+  const texts=[' a Full Stack AI Engineer',' a Data Scientist',' a Software Developer',' an Artist'];
   const [currentTextIndex,setCurrentTextIndex]=useState(0);
   const [charIndex,setCharIndex]=useState(0);
 
